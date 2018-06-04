@@ -141,8 +141,8 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j5y17lte/proprietary/vendor/lib/libHpr_LocFace_mvfd_v1.0.so:system/vendor/lib/libHpr_LocFace_mvfd_v1.0.so \
     vendor/samsung/j5y17lte/proprietary/vendor/lib/libHpr_LocLandmark_sdm_v1.0.so:system/vendor/lib/libHpr_LocLandmark_sdm_v1.0.so \
     vendor/samsung/j5y17lte/proprietary/lib/libMcClient.so:system/lib/libMcClient.so \
-    vendor/samsung/j5y17lte/proprietary/lib/libMcRegistry.so:system/lib/libMcRegistry.so \
-    vendor/samsung/j5y17lte/proprietary/lib/libOpenCv.so:system/lib/libOpenCv.so \
+    vendor/samsung/j5y17lte/proprietary/vendor/lib/libMcRegistry.so:system/vendor/lib/libMcRegistry.so \
+    vendor/samsung/j5y17lte/proprietary/vendor/lib/libOpenCv.so:system/vendor/lib/libOpenCv.so \
     vendor/samsung/j5y17lte/proprietary/vendor/lib/libPhotoEnhance.so:system/vendor/lib/libPhotoEnhance.so \
     vendor/samsung/j5y17lte/proprietary/vendor/lib/libSEF.so:system/vendor/lib/libSEF.so \
     vendor/samsung/j5y17lte/proprietary/vendor/lib/libbt-vendor.so:system/vendor/lib/libbt-vendor.so \
